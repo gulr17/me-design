@@ -1,8 +1,16 @@
 Om den här sajten
 ==============================================
 
-Sajtens primära uppgift är att redovisa övningar i kursen Design.
-* [design](http://dbwebb.se/design).
+Sajtens primära uppgift är att redovisa övningar i kursen [design](http://dbwebb.se/design).
+###Kursmoment
+
+1. Ramverk och innehåll
+2. LESS och responsiv design
+3. Grid, layout och typografi
+4. Färg
+5. Bild
+6. Design
+7. Projekt och examination
 
 Källkoden till sajten finns på GitHub i repot [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
