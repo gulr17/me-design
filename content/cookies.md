@@ -1,4 +1,4 @@
-About cookies
+Kakor
 ==============================================
 
-What about cookies?
+Vi gillar dem, godkänner du dem?

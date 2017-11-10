@@ -1,10 +1,9 @@
-About this site
+Om den här sajten
 ==============================================
 
-The primary focus of this site is to:
+Sajtens primära uppgift är att redovisa övningar i kursen Design.
+* [design](http://dbwebb.se/design).
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Källkoden till sajten finns på GitHub i repot [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+Sidan är skapad av [Gustav Larsson](https://github.com/gulr17).
