@@ -14,7 +14,10 @@ Sajtens primära uppgift är att redovisa övningar i kursen [design](http://dbw
 6. Design
 7. Projekt och examination
 
+<<<<<<< HEAD
 Me-sida till sajten finns på GitHub i repot [me-design](https://github.com/gulr17/me-design).
+=======
+>>>>>>> 77358f9... Modified looks: New icons, changed footer and small fixies
 Temat till sajten finns på GitHub i repot [anax-flat-theme](https://github.com/gulr17/anax-flat-theme).
 
 Sidan är skapad av [Gustav Larsson](https://github.com/gulr17).
