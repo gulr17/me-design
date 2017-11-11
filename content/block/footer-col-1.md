@@ -1,5 +1,4 @@
-####Anax Flat
-
-To build websites based on markup documents and configuration in YAML.
-
-[Get going](http://dbwebb.se/kunskap/bygg-me-sida-med-anax-flat).
+####Validering
+ * [HTML5](http://validator.w3.org/check/referer)
+ * [CSS](http://jigsaw.w3.org/css-validator/check/referer)
+ * [UNICORN](http://validator.w3.org/unicorn/check?ucn_uri=referer&amp;ucn_task=conformance)
