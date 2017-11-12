@@ -14,6 +14,11 @@ return [
         // Here comes the menu structure
         "items" => [
 
+            "index" => [
+                "text"  => t("Hem"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Hem")
+            ],
             "report" => [
                 "text"  => t("Redovisning"),
                 "url"   => $this->di->get("url")->create("report"),
