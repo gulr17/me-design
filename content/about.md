@@ -2,6 +2,8 @@ Om den här sajten
 ==============================================
 
 Sajtens primära uppgift är att redovisa övningar i kursen [design](http://dbwebb.se/design).
+
+![Design](/home/gvl/dbwebb-kurser/design/me/anax-flat/htdocs/img/favicon/favicon_128x128.png "Jag")
 ###Kursmoment
 
 1. Ramverk och innehåll
@@ -12,6 +14,6 @@ Sajtens primära uppgift är att redovisa övningar i kursen [design](http://dbw
 6. Design
 7. Projekt och examination
 
-Källkoden till sajten finns på GitHub i repot [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Temat till sajten finns på GitHub i repot [anax-flat-theme](https://github.com/gulr17/anax-flat-theme).
 
 Sidan är skapad av [Gustav Larsson](https://github.com/gulr17).
