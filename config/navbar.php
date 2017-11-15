@@ -19,6 +19,11 @@ return [
                 "url"   => $this->di->get("url")->create("index"),
                 "title" => t("Hem")
             ],
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid?vgrid"),
+                "title" => t("Grid")
+            ],
             "report" => [
                 "text"  => t("Redovisning"),
                 "url"   => $this->di->get("url")->create("report"),
