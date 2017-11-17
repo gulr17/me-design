@@ -21,8 +21,13 @@ return [
             ],
             "grid" => [
                 "text"  => t("Grid"),
-                "url"   => $this->di->get("url")->create("grid?vgrid"),
+                "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("Grid")
+            ],
+            "typography" => [
+                "text"  => t("typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("typography")
             ],
             "report" => [
                 "text"  => t("Redovisning"),
