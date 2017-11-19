@@ -1,3 +1,14 @@
+---
+views:
+    sidebar1:
+        region: sidebar-right
+        template: default/content
+        sort: -1
+        data:
+            meta:
+                type: content
+                route: sidebar-grid
+...
 Typography
 =============================================================================
 
@@ -24,10 +35,8 @@ _Kursivt_
 
 ```php
 Code:
-    if (strpos($contents, "\r\n") !== false) $nl = "\r\n";
-    elseif (strpos($contents, "\n") !== false) $nl = "\n";
-    elseif (strpos($contents, "\r") !== false) $nl = "\r";
-    else $nl = PHP_EOL;
+    if (true);
+    else;
 ``` 
 | Option | Description |
 | ------ | ----------- |

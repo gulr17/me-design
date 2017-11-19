@@ -53,13 +53,13 @@ return [
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "",
+                /*"siteLogoText"  => "",
                 "siteLogoTextIcon" => "",
                 "siteLogoTextIconAlt" => "",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",
                 "siteTitle"     => null, //"Anax PHP framework",
-                "siteSlogan"    => "Reusable modules for web development"
+                "siteSlogan"    => "Reusable modules for web development"*/
             ],
             "sort" => 2
         ],
