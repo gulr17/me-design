@@ -35,6 +35,12 @@ return [
                 "title" => t("Redovisningar av uppgifter"),
                 "mark-if-parent" => true,
             ],
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Färganalys"),
+                "mark-if-parent" => true,
+            ],
 
             "about" => [
                 "text"  => t("Om"),
@@ -69,6 +75,13 @@ return [
                 "text"  => t("Redovisning"),
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Redovisningar av kursmomenten"),
+                "mark-if-parent" => true,
+            ],
+
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Färganalys"),
                 "mark-if-parent" => true,
             ],
 
