@@ -22,7 +22,7 @@ return [
 
             // Style and stylesheets
             "stylesheets" => [
-                "css/modules.min.css",
+                "css/typography.min.css",
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             ],
             "styleInline" => null,
@@ -53,13 +53,13 @@ return [
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                /*"siteLogoText"  => "",
+                "siteLogoText"  => "Designkurs BTH",
                 "siteLogoTextIcon" => "",
                 "siteLogoTextIconAlt" => "",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",
                 "siteTitle"     => null, //"Anax PHP framework",
-                "siteSlogan"    => "Reusable modules for web development"*/
+                "siteSlogan"    => "Reusable modules for web development"
             ],
             "sort" => 2
         ],

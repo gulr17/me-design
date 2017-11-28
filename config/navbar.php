@@ -41,6 +41,12 @@ return [
                 "title" => t("Färganalys"),
                 "mark-if-parent" => true,
             ],
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Tema"),
+                "mark-if-parent" => true,
+            ],
 
             "about" => [
                 "text"  => t("Om"),
@@ -96,6 +102,13 @@ return [
                 "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typografi"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Tema"),
                 "mark-if-parent" => true,
             ],
 
