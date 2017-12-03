@@ -4,6 +4,7 @@
  * The variable $this is here related to $di.
  */
 return [
+    "urlType"       => self::URL_CLEAN,
 
     // Defaults to use when creating urls.
     //"siteUrl"       => null,
