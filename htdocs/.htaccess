@@ -23,8 +23,8 @@ RewriteRule (.*) /~gulr17/dbwebb-kurser/design/me/anax-flat/htdocs/index.php/$1 
 
 
 # Rewrite 2 - For other requests
-RewriteCond %{HTTP_HOST} !^www\.student\.bth\.se$ [NC]
+RewriteCond %{HTTP_HOST} !^localhost [NC]
 RewriteRule ^image/(.*)$ cimage/imgd.php?src=$1 [QSA,NC,L] 
 
-RewriteCond %{HTTP_HOST} !^www\.student\.bth\.se$ [NC]
+RewriteCond %{HTTP_HOST} !^localhost [NC]
 RewriteRule (.*) index.php/$1 [NC,L]

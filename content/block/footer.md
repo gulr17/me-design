@@ -1,3 +1,1 @@
-* [Licens](license)
-* [Kakor](cookies)
-* [Kontakt](contact)
+[Licens](license) [Kakor](cookies) [Kontakt](contact)

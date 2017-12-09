@@ -95,5 +95,46 @@ return [
             "class"      => "fun",
             "stylesheets" => []
         ],
+
+        "separator3" => "------------------------------------------------",
+        
+        "design-1"       => [
+            "title"      => "Design element 1",
+            "class"      => "de1",
+            "stylesheets" => [
+                "css/design1.min.css"
+            ]
+        ],
+        "design-2"       => [
+            "title"      => "Design element 2",
+            "class"      => "de2",
+            "stylesheets" => [
+                "css/design2.min.css"
+            ]
+        ],
+        "design-3"       => [
+            "title"      => "Design element 3",
+            "class"      => "de3",
+            "stylesheets" => [
+                "css/design3.min.css"
+            ]
+        ],
+
+        "separator4" => "------------------------------------------------",
+
+        "design-princip-1"       => [
+            "title"      => "Design principle 1",
+            "class"      => "dp1",
+            "stylesheets" => [
+                "css/design-p1.min.css"
+            ]
+        ],
+        "design-princip-2"       => [
+            "title"      => "Design principle 2",
+            "class"      => "dp2",
+            "stylesheets" => [
+                "css/design-p2.min.css"
+            ]
+        ]
     ]
 ];
