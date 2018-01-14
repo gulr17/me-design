@@ -13,73 +13,32 @@ return [
      
         // Here comes the menu structure
         "items" => [
-
-            "index" => [
-                "text"  => t("Hem"),
+            "home" => [
+                "text"  => t("Home"),
                 "url"   => $this->di->get("url")->create("index"),
-                "title" => t("Hem")
-            ],
-            "grid" => [
-                "text"  => t("Rutnät"),
-                "url"   => $this->di->get("url")->create("grid"),
-                "title" => t("Grid")
-            ],
-            "typography" => [
-                "text"  => t("Typografi"),
-                "url"   => $this->di->get("url")->create("typography"),
-                "title" => t("Typografi")
-            ],
-            "report" => [
-                "text"  => t("Redovisning"),
-                "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Redovisningar av uppgifter"),
+                "title" => t("Home"),
                 "mark-if-parent" => true,
             ],
-            "analysis" => [
-                "text"  => t("Analys"),
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("Färganalys"),
+            "blog" => [
+                "text"  => t("Blog"),
+                "url"   => $this->di->get("url")->create("blog"),
+                "title" => t("Blog"),
                 "mark-if-parent" => true,
             ],
             "theme" => [
-                "text"  => t("Tema"),
+                "text"  => t("Theme"),
                 "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Tema"),
-                "mark-if-parent" => true,
-            ],
-            "images" => [
-                "text"  => t("Bilder"),
-                "url"   => $this->di->get("url")->create("images"),
-                "title" => t("Bilder"),
-                "mark-if-parent" => true,
-            ],
-            "blogg" => [
-                "text"  => t("Blogg"),
-                "url"   => $this->di->get("url")->create("blogg"),
-                "title" => t("Blogg"),
-                "mark-if-parent" => true,
-            ],
-            "design-element" => [
-                "text"  => t("Designelement"),
-                "url"   => $this->di->get("url")->create("design-element"),
-                "title" => t("Designelement"),
-                "mark-if-parent" => true,
-            ],
-            "design-principle" => [
-                "text"  => t("Designprinciper"),
-                "url"   => $this->di->get("url")->create("design-principle"),
-                "title" => t("Designprinciper"),
+                "title" => t("About themes"),
                 "mark-if-parent" => true,
             ],
 
             "about" => [
-                "text"  => t("Om"),
+                "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("Om sajten")
+                "title" => t("About this website")
             ],
         ],
     ],
-
 
 
 
@@ -93,81 +52,32 @@ return [
      
         // Here comes the menu structure
         "items" => [
-
             "home" => [
-                "text"  => t("Hem"),
+                "text"  => t("Home"),
                 "url"   => $this->di->get("url")->create("index"),
-                "title" => t("Hem"),
+                "title" => t("Home"),
                 "mark-if-parent" => true,
             ],
-
-            "report" => [
-                "text"  => t("Redovisning"),
-                "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Redovisningar av kursmomenten"),
+            "blog" => [
+                "text"  => t("Blog"),
+                "url"   => $this->di->get("url")->create("blog"),
+                "title" => t("Blog"),
                 "mark-if-parent" => true,
             ],
-
-            "analysis" => [
-                "text"  => t("Analys"),
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("Färganalys"),
-                "mark-if-parent" => true,
-            ],
-
-            "grid" => [
-                "text"  => t("Rutnät"),
-                "url"   => $this->di->get("url")->create("grid"),
-                "title" => t("Rutnät"),
-                "mark-if-parent" => true,
-            ],
-
-            "typography" => [
-                "text"  => t("Typografi"),
-                "url"   => $this->di->get("url")->create("typography"),
-                "title" => t("Typografi"),
-                "mark-if-parent" => true,
-            ],
-
             "theme" => [
-                "text"  => t("Tema"),
+                "text"  => t("Theme"),
                 "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Tema"),
+                "title" => t("About themes"),
                 "mark-if-parent" => true,
             ],
 
-            "images" => [
-                "text"  => t("Bilder"),
-                "url"   => $this->di->get("url")->create("images"),
-                "title" => t("Bilder"),
-                "mark-if-parent" => true,
-            ],
-            "blogg" => [
-                "text"  => t("Blogg"),
-                "url"   => $this->di->get("url")->create("blogg"),
-                "title" => t("Blogg"),
-                "mark-if-parent" => true,
-            ],
-            "design-element" => [
-                "text"  => t("Designelement"),
-                "url"   => $this->di->get("url")->create("design-element"),
-                "title" => t("Designelement"),
-                "mark-if-parent" => true,
-            ],
-            "design-principle" => [
-                "text"  => t("Designprinciper"),
-                "url"   => $this->di->get("url")->create("design-principle"),
-                "title" => t("Designprinciper"),
-                "mark-if-parent" => true,
-            ],
             "about" => [
-                "text"  => t("Om"),
+                "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("Om sajten")
+                "title" => t("About this website")
             ],
         ],
     ],
-
 
 
     /**

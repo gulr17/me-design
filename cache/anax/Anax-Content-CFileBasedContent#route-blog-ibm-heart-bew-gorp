@@ -1,0 +1,38 @@
+O:8:"stdClass":7:{s:4:"file";s:30:"blog/101_ibm_heart_bew_gorp.md";s:7:"section";s:3:"101";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:7:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:4:"gula";a:1:{s:7:"acronym";s:4:"gula";}}s:9:"published";s:10:"2017-12-03";s:8:"category";a:1:{s:11:"dagens bild";a:1:{s:3:"key";s:11:"dagens bild";}}s:7:"content";s:872:"<h1>IBM &lt;3 Bew Gorp</h1>
+
+<p><figure class="figure">
+<a href="http://localhost/db/design/me/proj/htdocs/index.php/cimage/imgd.php"><img src="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php?src=ibm.png&w=300" alt=""/></a></p>
+
+<p></figure></p>
+
+<p>Bew Gorp is happy to announce that IBM have decided to partner with us in the future. Together we&#8217;ll create innovations within the realm of digital branding create and a marketing presense in the social media sphere.</p>
+
+<p>The competition was hard but in the end it was clear that IBM loves Bew Gorp. Together we&#8217;re the perfect partnership.</p>
+
+<h2>Words from the CEO:s</h2>
+
+<p>The power of momentum is evident in our endevour together. We&#8217;ll top the 2017 ranking of the world&#8217;s best-performing companies. And with two of this year&#8217;s top CEOs we&#8217;ll emerge as victors.</p>
+";s:7:"excerpt";s:872:"<h1>IBM &lt;3 Bew Gorp</h1>
+
+<p><figure class="figure">
+<a href="http://localhost/db/design/me/proj/htdocs/index.php/cimage/imgd.php"><img src="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php?src=ibm.png&w=300" alt=""/></a></p>
+
+<p></figure></p>
+
+<p>Bew Gorp is happy to announce that IBM have decided to partner with us in the future. Together we&#8217;ll create innovations within the realm of digital branding create and a marketing presense in the social media sphere.</p>
+
+<p>The competition was hard but in the end it was clear that IBM loves Bew Gorp. Together we&#8217;re the perfect partnership.</p>
+
+<h2>Words from the CEO:s</h2>
+
+<p>The power of momentum is evident in our endevour together. We&#8217;ll top the 2017 ranking of the world&#8217;s best-performing companies. And with two of this year&#8217;s top CEOs we&#8217;ll emerge as victors.</p>
+";}}s:6:"byline";a:4:{s:6:"region";s:4:"main";s:8:"template";s:14:"default/byline";s:4:"sort";i:2;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:6:"author";}s:6:"author";a:1:{s:4:"gula";a:1:{s:7:"acronym";s:4:"gula";}}}}s:13:"next-previous";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:48:"blog/100_we_welcome_facebook_as_new_customers.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"We Welcome Facebook to Bew";s:11:"publishTime";i:1512169200;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:41:"blog/we_welcome_facebook_as_new_customers";}s:8:"previous";N;}}s:10:"share-this";a:3:{s:6:"region";s:4:"main";s:8:"template";s:13:"default/share";s:4:"sort";i:4;}s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:5:"blog/";s:4:"text";s:28:"What&#8217;s Going On at Bew";}i:0;a:2:{s:3:"url";s:23:"blog/ibm_heart_bew_gorp";s:4:"text";s:18:"IBM &lt;3 Bew Gorp";}}}}s:11:"article-toc";a:4:{s:6:"region";s:13:"sidebar-right";s:8:"template";s:19:"default/article-toc";s:4:"sort";i:1;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:11:"article-toc";}s:10:"articleToc";a:1:{i:0;a:3:{s:5:"level";s:2:"h2";s:5:"title";s:20:"Words from the CEO:s";s:2:"id";N;}}}}s:11:"block-about";a:5:{s:5:"title";s:17:"Bew Gorp Web Corp";s:4:"data";a:2:{s:7:"content";s:401:"<h4>Bew Gorp Web Corp</h4>
+
+<figure class="figure">
+<a href="http://localhost/db/design/me/proj/htdocs/index.php/cimage/imgd.php"><img src="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php?src=bew.png&w=150" alt=""/></a>
+
+</figure>
+
+<p>You might be wondering what&#8217;s going on at Bew Gorp, here you&#8217;ll find out.<br/>
+This is where we share news and other important information.</p>
+";s:4:"meta";a:2:{s:4:"type";s:6:"single";s:5:"route";s:13:"./block-about";}}s:6:"region";s:13:"sidebar-right";s:8:"template";s:13:"default/block";s:4:"sort";i:0;}}s:11:"frontmatter";a:4:{s:6:"author";s:4:"gula";s:9:"published";s:10:"2017-12-03";s:8:"category";a:1:{i:0;s:11:"dagens bild";}s:5:"title";s:18:"IBM &lt;3 Bew Gorp";}}

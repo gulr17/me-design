@@ -17,14 +17,14 @@ return [
             "bodyClass"     => [],
             "lang"          => "sv",
             "charset"       => "utf-8",
-            "title_append"  => " | Kurs: Design",
+            "title_append"  => " | Bew Gorp Corp",
             "favicon"       => "img/favicon/favicon_256x256.png",
 
             // Style and stylesheets
             "stylesheets" => [
-                "css/typography.min.css",
+                "css/style.min.css",
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-            ],
+                ],
             "styleInline" => null,
 
             // JavaScript
@@ -38,31 +38,23 @@ return [
      * Add default views to always include.
      */
     "views" => [
-        [
-            "region" => "header",
-            "template" => "default/image",
-            "data" => [
-                "class" => "logo-1",
-                "src" => "img/favicon/favicon_128x128.png",
-                "alt" => "Logo",
-            ],
-            "sort" => 1
-        ],
+
         [
             "region" => "header",
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "Designkurs BTH",
-                "siteLogoTextIcon" => "",
-                "siteLogoTextIconAlt" => "",
-                "siteLogo"      => null, //"img/anax.png",
-                "siteLogoAlt"   => null, //"Anax Logo",
-                "siteTitle"     => null, //"Anax PHP framework",
-                "siteSlogan"    => "Reusable modules for web development"
+                "siteLogoText"  => "",
+                "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
+                "siteLogoTextIconAlt" => "Small logo",
+                "siteLogo"      => "img/bew.png",
+                "siteLogoAlt"   => "Anax Logo",
+                "siteTitle"     => "Anax PHP framework",
+                "siteSlogan"    => "Reusable modules for web development",
             ],
-            "sort" => 2
+            "sort" => 1
         ],
+
         [
             "region" => "profile",
             "template" => "default/navbar-max",
@@ -73,6 +65,17 @@ return [
             "region" => "navbar2",
             "template" => "default/navbar",
             "data" => [],
+            "sort" => 1
+        ],
+        [
+            "region" => "flash",
+            "template" => "default/image",
+            "data" => [
+                "class"     => "background-flash",
+                "src"       => "img/mountains.jpg",
+                "siteTitle" => "Bew Gorp Web Design",
+                "textClass" => "site-logo-text"
+            ],
             "sort" => 1
         ],
         [

@@ -1,4 +1,5 @@
-####Validering
- * [HTML5](http://validator.w3.org/check/referer)
- * [CSS](http://jigsaw.w3.org/css-validator/check/referer)
- * [UNICORN](http://validator.w3.org/unicorn/check?ucn_uri=referer&amp;ucn_task=conformance)
+Contact
+=========
+[FIGURE src="img/email.png&w=40&h=40&crop-to-fit" class="left"  ]
+[FIGURE src="img/twitter.png&w=40&h=40&crop-to-fit" class="left"]
+[FIGURE src="img/fb.png&w=40&h=40&crop-to-fit" class="left"]

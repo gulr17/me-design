@@ -1,0 +1,45 @@
+O:8:"stdClass":7:{s:4:"file";s:17:"theme/200_base.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:5:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:6:"theme/";s:4:"text";s:6:"Themes";}i:0;a:2:{s:3:"url";s:10:"theme/base";s:4:"text";s:4:"Base";}}}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:19:"theme/300_custom.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Custom";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:12:"theme/custom";}s:8:"previous";a:10:{s:4:"file";s:18:"theme/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:11:"theme/index";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:955:"<h1>Base</h1>
+
+<p><a href="http://localhost/db/design/me/proj/htdocs/index.php/theme-selector">Theme-selector</a></p>
+
+<figure class="figure">
+<a href="http://localhost/db/design/me/proj/htdocs/index.php/cimage/imgd.php"><img src="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php?src=base.png&w=800" alt=""/></a>
+
+</figure>
+
+<h2>Färg</h2>
+
+<p>Base-sidan är avskalad - till loggans cyan har jag valt dess kontrastfärg orange som återfinns i headern tillsammans med svart och vitt är de de enda färgerna i sidans element. Enkelt och rent.</p>
+
+<h2>Designelement</h2>
+
+<p>Kontrasten i färgvalen är ett av de designelement jag har valt. Kontrasten loggan och färgen i headern och kontrasten headern - orange -  och artikel-elementets svart-vita.</p>
+
+<h2>Designprinciper</h2>
+
+<p>Base-temat är komprimerat, innehållet är centrerat vilket gör att känslan av sajten blir tajtare och skapar en enkel balans i sidan.</p>
+
+<h2>Typsnitt</h2>
+";s:7:"excerpt";s:955:"<h1>Base</h1>
+
+<p><a href="http://localhost/db/design/me/proj/htdocs/index.php/theme-selector">Theme-selector</a></p>
+
+<figure class="figure">
+<a href="http://localhost/db/design/me/proj/htdocs/index.php/cimage/imgd.php"><img src="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php?src=base.png&w=800" alt=""/></a>
+
+</figure>
+
+<h2>Färg</h2>
+
+<p>Base-sidan är avskalad - till loggans cyan har jag valt dess kontrastfärg orange som återfinns i headern tillsammans med svart och vitt är de de enda färgerna i sidans element. Enkelt och rent.</p>
+
+<h2>Designelement</h2>
+
+<p>Kontrasten i färgvalen är ett av de designelement jag har valt. Kontrasten loggan och färgen i headern och kontrasten headern - orange -  och artikel-elementets svart-vita.</p>
+
+<h2>Designprinciper</h2>
+
+<p>Base-temat är komprimerat, innehållet är centrerat vilket gör att känslan av sajten blir tajtare och skapar en enkel balans i sidan.</p>
+
+<h2>Typsnitt</h2>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:19:"theme/300_custom.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Custom";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:12:"theme/custom";}s:8:"previous";a:10:{s:4:"file";s:18:"theme/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:11:"theme/index";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:6:"Themes";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:3:{s:11:"theme/index";a:9:{s:4:"file";s:18:"theme/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:10:"theme/base";a:9:{s:4:"file";s:17:"theme/200_base.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:4:"Base";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:12:"theme/custom";a:9:{s:4:"file";s:19:"theme/300_custom.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Custom";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:4:"Base";}}

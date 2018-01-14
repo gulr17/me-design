@@ -1,0 +1,27 @@
+O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:0:"";s:4:"text";s:4:"Home";}}}}s:8:"columns1";a:4:{s:6:"region";s:13:"columns-above";s:8:"template";s:15:"default/columns";s:4:"sort";i:1;s:4:"data";a:3:{s:5:"class";s:4:"col3";s:4:"meta";a:2:{s:4:"type";s:7:"columns";s:7:"columns";a:3:{s:8:"column-1";a:1:{s:4:"data";a:1:{s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:17:"block/index-col-1";}}}s:8:"column-2";a:1:{s:4:"data";a:1:{s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:17:"block/index-col-2";}}}s:8:"column-3";a:1:{s:4:"data";a:1:{s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:17:"block/index-col-3";}}}}}s:7:"columns";a:3:{s:8:"column-1";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:5:"title";s:26:"Another Digital Experience";s:4:"data";a:2:{s:7:"content";s:652:"<h1>Another Digital Experience</h1>
+
+<figure class="figure left">
+<a href="http://localhost/db/design/me/proj/htdocs/image/exp.jpg&w=300&h=200&crop-to-fit"><img src="http://localhost/db/design/me/proj/htdocs/image/exp.jpg&w=300&h=200&crop-to-fit" alt=""/></a>
+
+</figure>
+
+<p>Bew Gorp&#8217;s heritage of digital pioneering offers our clients a unique advantage in the world of digital transformation across marketing and technology services. We believe that by putting digital at the core of their business, clients not only accelerate the value exchange between their organizations and their customers can evolve with agility in a changing world.</p>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:17:"block/index-col-1";}}}s:8:"column-2";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:5:"title";s:25:"Business Customer Insight";s:4:"data";a:2:{s:7:"content";s:547:"<h1>Business Customer Insight</h1>
+
+<figure class="figure left">
+<a href="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php"><img src="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php?src=puzz.jpg&w=300&h=200&crop-to-fit" alt=""/></a>
+
+</figure>
+
+<p>Bew Gorp is bringing companies a greater degree of understanding about their customers than they’ve had access to before. Every engagement is informed by a significantly more intelligent customer view made possible through data and proprietary methods and inspired by three</p>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:17:"block/index-col-2";}}}s:8:"column-3";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:5:"title";s:16:"Agile Production";s:4:"data";a:2:{s:7:"content";s:610:"<h1>Agile Production</h1>
+
+<figure class="figure left">
+<a href="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php"><img src="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php?src=lap.jpg&w=300&h=200&crop-to-fit" alt=""/></a>
+
+</figure>
+
+<p>Bew Gorp was created to offer the kind of perspective and transformative help our clients were asking for. By bringing together our best and most talented employees, we are able to advance the transformation ambition with radical customer-centricity, deep technology capabilities, industry insight — and bring it to life quickly and with agility.</p>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:17:"block/index-col-3";}}}}}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:5:"title";s:4:"Home";s:7:"content";s:1:"
+";s:7:"excerpt";s:1:"
+";}}}s:11:"frontmatter";a:2:{s:5:"title";s:4:"Home";s:5:"views";a:1:{s:8:"columns1";a:4:{s:6:"region";s:13:"columns-above";s:8:"template";s:15:"default/columns";s:4:"sort";i:1;s:4:"data";a:2:{s:5:"class";s:4:"col3";s:4:"meta";a:2:{s:4:"type";s:7:"columns";s:7:"columns";a:3:{s:8:"column-1";a:1:{s:4:"data";a:1:{s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:17:"block/index-col-1";}}}s:8:"column-2";a:1:{s:4:"data";a:1:{s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:17:"block/index-col-2";}}}s:8:"column-3";a:1:{s:4:"data";a:1:{s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:17:"block/index-col-3";}}}}}}}}}}

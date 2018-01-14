@@ -1,0 +1,77 @@
+O:8:"stdClass":7:{s:4:"file";s:19:"theme/300_custom.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:5:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:6:"theme/";s:4:"text";s:6:"Themes";}i:0;a:2:{s:3:"url";s:12:"theme/custom";s:4:"text";s:6:"Custom";}}}}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:17:"theme/200_base.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:4:"Base";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:10:"theme/base";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:3333:"<h1>Custom</h1>
+
+<p><a href="http://localhost/db/design/me/proj/htdocs/index.php/theme-selector">Theme-selector</a></p>
+
+<figure class="figure">
+<a href="http://localhost/db/design/me/proj/htdocs/index.php/cimage/imgd.php"><img src="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php?src=custom.png&w=800" alt=""/></a>
+
+</figure>
+
+<h2>Färger</h2>
+
+<p>Färgvalet föll på en monokromatisk färgskala. Grundfärgen är turkos och kompletteras av olika nyanser av turkost och svart, grått och vitt.
+Flashbilden med bergen har en opacitet på 0.5 och under den ligger en bakgrundsfärg som skiner igenom, vilket gör att bilden bra smälter in i det övriga färgschemat.</p>
+
+<p>Loggan har tre nyanser av turkost/blått, färger som sen återkommer i flash-sektionen, navbaren och navbarens knappar.</p>
+
+<figure class="figure">
+<a href="http://localhost/db/design/me/proj/htdocs/index.php/cimage/imgd.php"><img src="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php?src=colors.png&w=800" alt=""/></a>
+
+</figure>
+
+<h2>Designelement</h2>
+
+<p><strong>Transparensen</strong> i flashbilden gör att bergen blir en del i designen snarare än en del i budskapet. Bergen i sig har inget med &#8220;kunden&#8221; i fråga att göra, men det har däremot vad bergen symboliserar och det blir ett element som formar designen och innebörden av sidan.</p>
+
+<p>Eftersom bergen är tunga i sin framtoning så har jag medvetet behållit mycket av det vita i övriga element, de under i, main/article delen av sidan. Detta för att inte göra sidan alldeles för tung. <strong>Vitutrymmet</strong> mellan element och <strong>avsaknaden av utfyllnad</strong> av sidan tycker jag hjälper till i den aspekten.</p>
+
+<p>Navbaren och bergen i toppen av sidan tillsammans med footern i botten skapar en <strong>inramning</strong> åt textinnehållet i mitten. Storleken på elementen skapar även en hierarki där elementens tyngd för besökaren nedåt på sidan.</p>
+
+<h2>Designprinciper</h2>
+
+<p>Jag har försökt att skapa <strong>perspektiv</strong> med hjälp av bergen i flashbilden - sänkan mellan bergen för en inåt i bilden och centrerar sidan på ett naturligt sätt.</p>
+
+<p>I textdelarna, main/article har jag försökt att arbeta med balans i det avseendet att de tre texterna på &#8220;Home&#8221; jämnt är fördelade på sidans utrymme. Men jag har också försökt att rubba balansen genom att ha texten fördelade på olika ställen i main/article. Bloggdelen är vänsterjusterad och tar upp 60% av sidutrymmet. Detta gör att sidan kantrar lite åt vänster, men det gör inget med den tyngd som finns i toppen av sidan. &#8220;Theme&#8221;-delen är centrerad så när som på sidebaren vilket gör at den i sin tur kantrar lite åt höger. &#8220;About&#8221;-delen är också vänsterjusterad men tar bara upp 40% av utrymmet som gör att trots att den kantrar är bättre balanserad än bloggdelen.</p>
+
+<h2>Typsnitt</h2>
+
+<p><strong>Typografiskt</strong> har jag arbetat med två sans-serifer. Montserrat till logga och rubriker - som tycker jag passar bra till rubriker då det är ganska mycket space/mellanrum mellan bokstäverna vilket ger rymd på sidan. Till brödtexten har jag valt Roboto - som jag tycker är lättläst och har en bra rytm på sidan. Den ger ett kraftfullt intryck till texten.</p>
+";s:7:"excerpt";s:3333:"<h1>Custom</h1>
+
+<p><a href="http://localhost/db/design/me/proj/htdocs/index.php/theme-selector">Theme-selector</a></p>
+
+<figure class="figure">
+<a href="http://localhost/db/design/me/proj/htdocs/index.php/cimage/imgd.php"><img src="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php?src=custom.png&w=800" alt=""/></a>
+
+</figure>
+
+<h2>Färger</h2>
+
+<p>Färgvalet föll på en monokromatisk färgskala. Grundfärgen är turkos och kompletteras av olika nyanser av turkost och svart, grått och vitt.
+Flashbilden med bergen har en opacitet på 0.5 och under den ligger en bakgrundsfärg som skiner igenom, vilket gör att bilden bra smälter in i det övriga färgschemat.</p>
+
+<p>Loggan har tre nyanser av turkost/blått, färger som sen återkommer i flash-sektionen, navbaren och navbarens knappar.</p>
+
+<figure class="figure">
+<a href="http://localhost/db/design/me/proj/htdocs/index.php/cimage/imgd.php"><img src="http://localhost/db/design/me/proj/htdocs/cimage/imgd.php?src=colors.png&w=800" alt=""/></a>
+
+</figure>
+
+<h2>Designelement</h2>
+
+<p><strong>Transparensen</strong> i flashbilden gör att bergen blir en del i designen snarare än en del i budskapet. Bergen i sig har inget med &#8220;kunden&#8221; i fråga att göra, men det har däremot vad bergen symboliserar och det blir ett element som formar designen och innebörden av sidan.</p>
+
+<p>Eftersom bergen är tunga i sin framtoning så har jag medvetet behållit mycket av det vita i övriga element, de under i, main/article delen av sidan. Detta för att inte göra sidan alldeles för tung. <strong>Vitutrymmet</strong> mellan element och <strong>avsaknaden av utfyllnad</strong> av sidan tycker jag hjälper till i den aspekten.</p>
+
+<p>Navbaren och bergen i toppen av sidan tillsammans med footern i botten skapar en <strong>inramning</strong> åt textinnehållet i mitten. Storleken på elementen skapar även en hierarki där elementens tyngd för besökaren nedåt på sidan.</p>
+
+<h2>Designprinciper</h2>
+
+<p>Jag har försökt att skapa <strong>perspektiv</strong> med hjälp av bergen i flashbilden - sänkan mellan bergen för en inåt i bilden och centrerar sidan på ett naturligt sätt.</p>
+
+<p>I textdelarna, main/article har jag försökt att arbeta med balans i det avseendet att de tre texterna på &#8220;Home&#8221; jämnt är fördelade på sidans utrymme. Men jag har också försökt att rubba balansen genom att ha texten fördelade på olika ställen i main/article. Bloggdelen är vänsterjusterad och tar upp 60% av sidutrymmet. Detta gör att sidan kantrar lite åt vänster, men det gör inget med den tyngd som finns i toppen av sidan. &#8220;Theme&#8221;-delen är centrerad så när som på sidebaren vilket gör at den i sin tur kantrar lite åt höger. &#8220;About&#8221;-delen är också vänsterjusterad men tar bara upp 40% av utrymmet som gör att trots att den kantrar är bättre balanserad än bloggdelen.</p>
+
+<h2>Typsnitt</h2>
+
+<p><strong>Typografiskt</strong> har jag arbetat med två sans-serifer. Montserrat till logga och rubriker - som tycker jag passar bra till rubriker då det är ganska mycket space/mellanrum mellan bokstäverna vilket ger rymd på sidan. Till brödtexten har jag valt Roboto - som jag tycker är lättläst och har en bra rytm på sidan. Den ger ett kraftfullt intryck till texten.</p>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:17:"theme/200_base.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:4:"Base";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:10:"theme/base";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:13:"Redovisningar";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:3:{s:11:"theme/index";a:9:{s:4:"file";s:18:"theme/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:10:"theme/base";a:9:{s:4:"file";s:17:"theme/200_base.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:4:"Base";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:12:"theme/custom";a:9:{s:4:"file";s:19:"theme/300_custom.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Custom";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:6:"Custom";}}

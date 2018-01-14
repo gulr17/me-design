@@ -1,0 +1,11 @@
+O:8:"stdClass":7:{s:4:"file";s:15:"block/footer.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:1;s:7:"tocable";b:0;s:5:"views";a:1:{s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:329:"<p>Copyright &copy; 2012-2017&#160;<a href="https://bew.com">Bew Gorp Web Corp</a> (contact@bew.com)</p>
+
+<p><a href="http://localhost/db/design/me/proj/htdocs/license">License</a>
+<a href="http://localhost/db/design/me/proj/htdocs/cookies">Cookies</a>
+<a href="http://localhost/db/design/me/proj/htdocs/contact">Contact</a></p>
+";s:7:"excerpt";s:329:"<p>Copyright &copy; 2012-2017&#160;<a href="https://bew.com">Bew Gorp Web Corp</a> (contact@bew.com)</p>
+
+<p><a href="http://localhost/db/design/me/proj/htdocs/license">License</a>
+<a href="http://localhost/db/design/me/proj/htdocs/cookies">Cookies</a>
+<a href="http://localhost/db/design/me/proj/htdocs/contact">Contact</a></p>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";N;}}

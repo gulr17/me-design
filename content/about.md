@@ -1,22 +1,14 @@
-Om den här sajten
+Web Design for your company
 ==============================================
+Bew Gorp are specialized in creating web sites for small, medium and large companies. We deliver what you want, when you need it.
 
-Sajtens primära uppgift är att redovisa övningar i kursen [design](http://dbwebb.se/design).
+Kundens önskemål
+=============================================
 
-![Design](img/favicon/favicon_128x128.png "Design")
+Jag tolkade det som att kunden ville ha en stilren sida som visar upp Bew Gorps designtalang, gedigna tekniska bakgrund och lockar nya kunder till att ta kontakt.
 
-###Kursmoment
+Färgvalet gjordes utifrån ett monokromatiskt färgschema med nyanser av turkost och åt det blåa hållet. Tanken var att det skulle ge ett seriöst intryck, samtidgt ljus och tilltalande. Bergen i bakgrunden ska bidra till "storslagenheten" hos Bew Gorp Web Corp
 
-1. Ramverk och innehåll
-2. LESS och responsiv design
-3. Grid, layout och typografi
-4. Färg
-5. Bild
-6. Design
-7. Projekt och examination
+Eftersom webbsida är företagets ansikte utåt så tänkte jag att mycket av innehållet skulle berätta vad företaget gör, har gjort och är duktiga på. Bloggen fick anta formen av ett "pressrum" där Bew Gorp presenterar nyheter kring nya kunder och affärer. Texten där ska skryta om hur bra företaget är.
 
-Me-sida till sajten finns på GitHub i repot [me-design](https://github.com/gulr17/me-design).
-
-Temat till sajten finns på GitHub i repot [anax-flat-theme](https://github.com/gulr17/anax-flat-theme).
-
-Sidan är skapad av [Gustav Larsson](https://github.com/gulr17).
+Typsnitten ska förmedla en "Corporate"-känsla, Bew Gorp samarbetar med de större företagen. Bilder har en illustrerande effekt och är där för att komplettera texterna.
